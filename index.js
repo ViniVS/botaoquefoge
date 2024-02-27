@@ -13,25 +13,25 @@ function entrar(){
         nao.style.transform="translate(130px, -150px)"
     }
     if (estado == 1){
-        nao.style.transform="translate(130px, +150px)"
+        nao.style.transform="translate(630px, +550px)"
     }
     if (estado == 2){
-        nao.style.transform="translate(-325px, +150px)"
+        nao.style.transform="translate(-625px, +550px)"
     }
     if (estado == 3){
-        nao.style.transform="translate(-325px, -150px)"
+        nao.style.transform="translate(-625px, -150px)"
     }
     if (estado == 4){
-        nao.style.transform="translate(+135px, +150px)"
+        nao.style.transform="translate(+635px, +550px)"
     }
     if (estado == 5){
-        nao.style.transform="translate(+135px, -150px)"
+        nao.style.transform="translate(+635px, -150px)"
     }
     if (estado == 6){
-        nao.style.transform="translate(-325px, +150px)"
+        nao.style.transform="translate(-625px, +550px)"
     }
     if (estado == 7){
-        nao.style.transform="translate(-325px, -150px)"
+        nao.style.transform="translate(-625px, -150px)"
         estado = -1
     }
 }
