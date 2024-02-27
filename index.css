@@ -26,7 +26,7 @@ h1{
     justify-content: center;
 }
 #area{
-    background-color: seagreen;
+    background-color: rgb(73, 75, 74);
     width: 550px;
     height: 390px;
     padding: 15px;
@@ -44,7 +44,7 @@ h1{
     color: blue;
 }
 .option{
-    background-color: yellowgreen;
+    background-color: rgb(161, 161, 161);
     height: 50px;
     width: 50px;
     display: flex;
